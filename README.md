@@ -15,9 +15,12 @@ This was a really fun project. Working on a program as a group is an interesting
 ### Eden Prairie High School App
 [Repository](https://github.com/EPCompSci/EagleNation)
 
-This was my first project that wasn't a game. Because of that, this project was completely new to me. I had never touched, UI designs, databases, or made anything that cared about a user experience. So working around with this project, I learned a lot about app development processes. 
+This was my first project that wasn't a game. Because of that, this project was completely new to me. I had never touched, UI designs, databases, or made anything that cared about a user experience. So working around with this project, I learned a lot about app development process with an app that is actually going to targeted at a group of people. With that in mind, designing the app in a way that will make the experience seemless was an interesting task. 
 
+### Tom's Adventure/Rocket Jump Game
+[Repository](https://github.com/chauphana/Tom-s-Adventure)
 
+This will be my personal project to work on. The goal here is to apply the ideas and techniques I learned from working on Tic-Tac-Toe, Eggs with Legs, and even the school app to create a game that will be challenging but fun. I hope to just use this game as another project to experiment and explore ideas on than to try to create a finish product. But maybe it will turn out better than I hope it to be. For now, it is a textureless, barebones, rectangle based playground for maybe a rocket jumping game.
 
 
 
